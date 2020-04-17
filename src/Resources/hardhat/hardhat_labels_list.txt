@@ -1,2 +1,12 @@
-???
-hardhat
+air
+dancing_figures
+decoy
+moonrise_august
+moonrise_january
+nomade
+panoramic
+seating
+snowmen
+spider
+t8
+white_ghost
